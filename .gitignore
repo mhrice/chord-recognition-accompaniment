@@ -1,0 +1,5 @@
+**/node_modules
+**/chord_dataset
+*.zip
+__pycache__/
+/result/isophonic_voca/22050_10.0_5.0/cqt_144_24_2048
